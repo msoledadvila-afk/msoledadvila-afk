@@ -1,52 +1,31 @@
-# Hola, soy María Soledad Vila 👋
+# Hola, soy María Soledad Vila
 
-**Vibe Coder & Arquitecta Digital**
+**Vibe Coder & Arquitecta Digital · Fundadora de Talento Impulsa Consulting**
 
-Construyo aplicaciones web que integran IA de forma nativa, devolviéndole el control a cada organización. Desarrollo low-code, vibe coding y autonomía digital para PyMEs y profesionales.
+En esta cuenta vive el **Ecosistema PCA™ de Talento Impulsa**: las herramientas del Modelo PCA™ — Productividad Consciente Aumentada — con las que acompaño a profesionales independientes y PyMEs a ordenar, delegar y sostener su trabajo con IA. Mis demos y desarrollos a medida están en la organización [**talentoimpulsa**](https://github.com/talentoimpulsa).
 
----
+## Ecosistema PCA™
 
-### 🛠️ Lo que hago
+| Herramienta | Qué hace |
+| --- | --- |
+| [Diagnóstico PCA™](https://github.com/msoledadvila-afk/matriz-auditoria-pca) | Diagnóstico conversacional: 25 preguntas en 5 categorías con detección de cuellos de botella |
+| [Prompt Studio PCA™](https://github.com/msoledadvila-afk/biblioteca-prompts) | Biblioteca de 64 prompts construidos con el marco C.R.E.F.™ |
+| [Hub PCA™](https://github.com/msoledadvila-afk/hub-pca) | Seguimiento de cada cliente: resultados, notas y evolución |
+| [Seguimiento PCA™](https://github.com/msoledadvila-afk/seguimiento-pca) | Sesiones de evolución comparativa con cada cliente |
+| [Sitio Talento Impulsa](https://github.com/msoledadvila-afk/talento-impulsa) | Sitio y blog de [talentoimpulsa.com.ar](https://talentoimpulsa.com.ar) |
 
-- **Desarrollo Web** — Aplicaciones a medida con HTML, CSS, React y JavaScript
-- **Vibe Coding** — IA integrada en el código, no como complemento
-- **Autonomía Digital** — Ecosistemas propios: tus datos, tu lógica, tu control
-- **Consultoría PCA™** — Productividad con Conciencia y Autonomía para equipos
+El Modelo PCA™ trabaja en tres momentos — **Ordenar → Delegar → Sostener** — con el Protocolo de Humanismo Digital como criterio transversal.
 
----
+## También en esta cuenta
 
-### 💻 Proyectos Vibe Coder
+- [Portfolio](https://github.com/msoledadvila-afk/portfolio-msv) · [mariasoledadvila.com.ar](https://mariasoledadvila.com.ar)
+- [Design System MSV 2026](https://github.com/msoledadvila-afk/design-system-msv-2026) · tokens de las dos marcas
 
-| Proyecto | Descripción |
-|----------|-------------|
-| [English App](https://github.com/msoledadvila-afk/english.talento.impulsa) | Plataforma e-learning de inglés con 35 categorías temáticas |
-| [Prompt Studio RRHH](https://github.com/msoledadvila-afk/prompt-studio-rrhh) | Reclutamiento, evaluación y onboarding con IA |
+## Stack
 
-### 💼 Talento Impulsa Consulting
+HTML · JavaScript · React · Vite · Firebase · Google Apps Script · Python/Flask · GitHub Pages · Netlify · Render
 
-| Proyecto | Descripción |
-|----------|-------------|
-| [Biblioteca de Prompts](https://github.com/msoledadvila-afk/biblioteca-prompts) | +30 herramientas IA pre-configuradas para equipos |
-| [Matriz de Auditoría PCA™](https://github.com/msoledadvila-afk/matriz-auditoria-pca) | Diagnóstico de productividad en 5 categorías |
-| [Seguimiento PCA™](https://github.com/msoledadvila-afk/seguimiento-pca) | Sesiones de evolución comparativa con clientes |
+## Contacto
 
-### 👤 Proyectos Personales
-
-| Proyecto | Descripción |
-|----------|-------------|
-| [Portfolio](https://github.com/msoledadvila-afk/portfolio-msv) | Mi portafolio profesional |
-| [Gastos Familiares](https://github.com/msoledadvila-afk/Gastos-familiares) | App de gestión de gastos personales |
-
----
-
-### 🚀 Stack
-
-`HTML` `CSS` `JavaScript` `React` `Vite` `Google Apps Script` `GitHub Pages` `Netlify`
-
----
-
-### 📬 Contacto
-
-- 🌐 [Portfolio](https://msoledadvila-afk.github.io/portfolio-msv/)
-- 💬 [WhatsApp](https://wa.me/5491169580303)
-- ✉️ msoledadvila@gmail.com
+- Talento Impulsa: [talentoimpulsa.com.ar](https://talentoimpulsa.com.ar) · hola@talentoimpulsa.com.ar
+- Desarrollo a medida: [mariasoledadvila.com.ar](https://mariasoledadvila.com.ar) · hola@mariasoledadvila.com.ar
